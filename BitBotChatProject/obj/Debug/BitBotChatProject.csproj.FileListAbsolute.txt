@@ -1,0 +1,16 @@
+c:\users\bcsadmin\documents\visual studio 2017\Projects\BitBotChatProject\BitBotChatProject\bin\Debug\BitBotChatProject.exe.config
+c:\users\bcsadmin\documents\visual studio 2017\Projects\BitBotChatProject\BitBotChatProject\bin\Debug\BitBotChatProject.exe
+c:\users\bcsadmin\documents\visual studio 2017\Projects\BitBotChatProject\BitBotChatProject\bin\Debug\BitBotChatProject.pdb
+c:\users\bcsadmin\documents\visual studio 2017\Projects\BitBotChatProject\BitBotChatProject\bin\Debug\EntityFramework.dll
+c:\users\bcsadmin\documents\visual studio 2017\Projects\BitBotChatProject\BitBotChatProject\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\bcsadmin\documents\visual studio 2017\Projects\BitBotChatProject\BitBotChatProject\bin\Debug\EntityFramework.xml
+c:\users\bcsadmin\documents\visual studio 2017\Projects\BitBotChatProject\BitBotChatProject\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\bcsadmin\documents\visual studio 2017\Projects\BitBotChatProject\BitBotChatProject\obj\Debug\BitBotChatProject.csprojResolveAssemblyReference.cache
+c:\users\bcsadmin\documents\visual studio 2017\Projects\BitBotChatProject\BitBotChatProject\obj\Debug\BitBotChatProject.LoginForm.resources
+c:\users\bcsadmin\documents\visual studio 2017\Projects\BitBotChatProject\BitBotChatProject\obj\Debug\BitBotChatProject.MainForm.resources
+c:\users\bcsadmin\documents\visual studio 2017\Projects\BitBotChatProject\BitBotChatProject\obj\Debug\BitBotChatProject.Properties.Resources.resources
+c:\users\bcsadmin\documents\visual studio 2017\Projects\BitBotChatProject\BitBotChatProject\obj\Debug\BitBotChatProject.RegistrationForm.resources
+c:\users\bcsadmin\documents\visual studio 2017\Projects\BitBotChatProject\BitBotChatProject\obj\Debug\BitBotChatProject.csproj.GenerateResource.Cache
+c:\users\bcsadmin\documents\visual studio 2017\Projects\BitBotChatProject\BitBotChatProject\obj\Debug\BitBotChatProject.exe
+c:\users\bcsadmin\documents\visual studio 2017\Projects\BitBotChatProject\BitBotChatProject\obj\Debug\BitBotChatProject.pdb
+C:\Users\BCSAdmin\Documents\Visual Studio 2017\Projects\BitBotChatProject\BitBotChatProject\obj\Debug\BitBotChatProject.CreateRoomForm.resources
