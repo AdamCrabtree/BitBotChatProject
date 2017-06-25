@@ -58,9 +58,9 @@
             // 
             // tbUserMessage
             // 
-            this.tbUserMessage.Location = new System.Drawing.Point(146, 809);
+            this.tbUserMessage.Location = new System.Drawing.Point(153, 809);
             this.tbUserMessage.Name = "tbUserMessage";
-            this.tbUserMessage.Size = new System.Drawing.Size(1333, 20);
+            this.tbUserMessage.Size = new System.Drawing.Size(1326, 20);
             this.tbUserMessage.TabIndex = 1;
             this.tbUserMessage.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.tbUserMessage_KeyPress);
             // 
@@ -120,10 +120,10 @@
             // 
             // rtbMessages
             // 
-            this.rtbMessages.Location = new System.Drawing.Point(146, 66);
+            this.rtbMessages.Location = new System.Drawing.Point(153, 66);
             this.rtbMessages.Name = "rtbMessages";
             this.rtbMessages.ReadOnly = true;
-            this.rtbMessages.Size = new System.Drawing.Size(1333, 734);
+            this.rtbMessages.Size = new System.Drawing.Size(1326, 734);
             this.rtbMessages.TabIndex = 10;
             this.rtbMessages.Text = "";
             // 
@@ -134,7 +134,7 @@
             this.tabRooms.Location = new System.Drawing.Point(12, 66);
             this.tabRooms.Name = "tabRooms";
             this.tabRooms.SelectedIndex = 0;
-            this.tabRooms.Size = new System.Drawing.Size(128, 734);
+            this.tabRooms.Size = new System.Drawing.Size(135, 734);
             this.tabRooms.TabIndex = 11;
             // 
             // tabPage1
@@ -145,7 +145,7 @@
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage1.Size = new System.Drawing.Size(120, 708);
             this.tabPage1.TabIndex = 0;
-            this.tabPage1.Text = "tabPage1";
+            this.tabPage1.Text = "Popular Rooms";
             this.tabPage1.UseVisualStyleBackColor = true;
             // 
             // tabPage2
@@ -154,9 +154,9 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 22);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(120, 708);
+            this.tabPage2.Size = new System.Drawing.Size(127, 708);
             this.tabPage2.TabIndex = 1;
-            this.tabPage2.Text = "tabPage2";
+            this.tabPage2.Text = "Users";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
             // lbCurrentUsers
@@ -164,7 +164,7 @@
             this.lbCurrentUsers.FormattingEnabled = true;
             this.lbCurrentUsers.Location = new System.Drawing.Point(0, 0);
             this.lbCurrentUsers.Name = "lbCurrentUsers";
-            this.lbCurrentUsers.Size = new System.Drawing.Size(120, 706);
+            this.lbCurrentUsers.Size = new System.Drawing.Size(304, 706);
             this.lbCurrentUsers.TabIndex = 0;
             // 
             // MainForm

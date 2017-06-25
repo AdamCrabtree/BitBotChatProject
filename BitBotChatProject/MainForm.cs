@@ -85,6 +85,7 @@ namespace BitBotChatProject
         }
         private void GetPopularRooms()
         {
+            lbPopularRooms.Items.Clear();
             List<Room> popularRooms = RoomHandler.PublicGetPopularRooms();
             foreach (var room in popularRooms)
             {
@@ -114,7 +115,7 @@ namespace BitBotChatProject
 
         private void SendMessage()
         {
-            if (String.IsNullOrWhiteSpace(tbUserMessage.Text))
+            if (!String.IsNullOrWhiteSpace(tbUserMessage.Text))
             {
                 MessagesHandler.PublicPostMessage(tbUserMessage.Text, currentUser, currentRoom);
             }
@@ -136,7 +137,7 @@ namespace BitBotChatProject
                         messageIdList.Add(messageToBox.Id);
                     }
                 }
-                Thread.Sleep(100);
+                Thread.Sleep(1000);
             }
         }
         #endregion MessagingRegion

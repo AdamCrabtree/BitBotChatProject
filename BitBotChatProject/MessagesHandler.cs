@@ -37,7 +37,6 @@ namespace BitBotChatProject
         {
             using (BitBotChatDatabaseEntities1 myDB = new BitBotChatDatabaseEntities1())
             {
-                Console.Write(currentRoom.RoomName);
                 List<UserMessage> myMessages = myDB.UserMessages.Where(message=>message.RoomSentTo == currentRoom.Id).ToList();
                 return myMessages;
             }

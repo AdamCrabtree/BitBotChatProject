@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BitBotChatDatabaseModelStoreContainer" CdmEntityContainer="BitBotChatDatabaseEntities1">
+    <EntitySetMapping Name="Rooms">
+      <EntityTypeMapping TypeName="BitBotChatDatabaseModel.Room">
+        <MappingFragment StoreEntitySet="Room">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="RoomName" ColumnName="RoomName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="BitBotChatDatabaseModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="RoomInside" ColumnName="RoomInside" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserMessages">
+      <EntityTypeMapping TypeName="BitBotChatDatabaseModel.UserMessage">
+        <MappingFragment StoreEntitySet="UserMessage">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="MessageText" ColumnName="MessageText" />
+          <ScalarProperty Name="RoomSentTo" ColumnName="RoomSentTo" />
+          <ScalarProperty Name="SendingUser" ColumnName="SendingUser" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

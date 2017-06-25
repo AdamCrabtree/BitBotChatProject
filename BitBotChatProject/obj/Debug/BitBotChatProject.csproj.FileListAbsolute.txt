@@ -14,3 +14,19 @@ c:\users\bcsadmin\documents\visual studio 2017\Projects\BitBotChatProject\BitBot
 c:\users\bcsadmin\documents\visual studio 2017\Projects\BitBotChatProject\BitBotChatProject\obj\Debug\BitBotChatProject.exe
 c:\users\bcsadmin\documents\visual studio 2017\Projects\BitBotChatProject\BitBotChatProject\obj\Debug\BitBotChatProject.pdb
 C:\Users\BCSAdmin\Documents\Visual Studio 2017\Projects\BitBotChatProject\BitBotChatProject\obj\Debug\BitBotChatProject.CreateRoomForm.resources
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\bin\Debug\BitBotChatProject.exe.config
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\obj\Debug\BitBotChatProject.exe
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\obj\Debug\BitBotChatProject.pdb
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\bin\Debug\BitBotChatProject.exe
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\bin\Debug\BitBotChatProject.pdb
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\bin\Debug\EntityFramework.dll
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\bin\Debug\EntityFramework.xml
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\obj\Debug\BitBotChatProject.csprojResolveAssemblyReference.cache
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\obj\Debug\BitBotChatProject.CreateRoomForm.resources
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\obj\Debug\BitBotChatProject.LoginForm.resources
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\obj\Debug\BitBotChatProject.MainForm.resources
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\obj\Debug\BitBotChatProject.Properties.Resources.resources
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\obj\Debug\BitBotChatProject.RegistrationForm.resources
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\obj\Debug\BitBotChatProject.csproj.GenerateResource.Cache

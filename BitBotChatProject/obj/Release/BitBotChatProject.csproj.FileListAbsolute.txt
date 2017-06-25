@@ -1,0 +1,16 @@
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\bin\Release\BitBotChatProject.exe.config
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\bin\Release\BitBotChatProject.exe
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\bin\Release\BitBotChatProject.pdb
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\bin\Release\EntityFramework.dll
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\bin\Release\EntityFramework.xml
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\obj\Release\BitBotChatProject.csprojResolveAssemblyReference.cache
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\obj\Release\BitBotChatProject.CreateRoomForm.resources
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\obj\Release\BitBotChatProject.LoginForm.resources
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\obj\Release\BitBotChatProject.MainForm.resources
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\obj\Release\BitBotChatProject.Properties.Resources.resources
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\obj\Release\BitBotChatProject.RegistrationForm.resources
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\obj\Release\BitBotChatProject.csproj.GenerateResource.Cache
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\obj\Release\BitBotChatProject.exe
+C:\Users\acrab\Source\Repos\BitBotChatProject\BitBotChatProject\obj\Release\BitBotChatProject.pdb
