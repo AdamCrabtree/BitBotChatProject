@@ -12,11 +12,11 @@ namespace BitBotChatProject
         {
             return LoginUser(username, password);
         }
-        public static int  PublicRegisterUser(String username, String password, String email) //return 1 if success, return 0 if login failure due to duplicate username
+        public static int  PublicRegisterUser(string username, string password, string email) //return 1 if success, return 0 if login failure due to duplicate username
         {
             return(RegisterUser(username, password, email));
         }
-        private static int RegisterUser(String username, String password, String email) 
+        private static int RegisterUser(string username, string password, string email) 
         {
             password = encryptPassword(password);
             User newUser = new User()
@@ -39,7 +39,7 @@ namespace BitBotChatProject
                 }
             }
         }
-        private static User LoginUser(String username, String password)
+        private static User LoginUser(string username, string password)
         {
             password = encryptPassword(password);
             using (BitBotChatDatabaseEntities1 loginModel = new BitBotChatDatabaseEntities1())
@@ -61,7 +61,7 @@ namespace BitBotChatProject
                 }
             }
         }
-        private static String encryptPassword(string password)
+        private static string encryptPassword(string password)
         {
             byte[] data = System.Text.Encoding.ASCII.GetBytes(password);
             data = new System.Security.Cryptography.SHA256Managed().ComputeHash(data);

@@ -19,7 +19,7 @@ namespace BitBotChatProject
 
         private void bRegister_Click(object sender, EventArgs e)
         {
-            if (tbEmail.Text != null && tbPassword.Text != null && tbPasswordRepeat != null && tbUsername != null)
+            if (!String.IsNullOrWhiteSpace(tbEmail.Text) && !String.IsNullOrWhiteSpace(tbPassword.Text) && !String.IsNullOrWhiteSpace(tbPasswordRepeat.Text) && !String.IsNullOrWhiteSpace(tbUsername.Text))
             {
                 if (tbPassword.Text == tbPasswordRepeat.Text)
                 {
